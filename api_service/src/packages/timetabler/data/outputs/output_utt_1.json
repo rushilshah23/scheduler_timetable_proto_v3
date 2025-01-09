@@ -1,0 +1,4390 @@
+[
+    {
+        "id": "c96a79d4-e30b-4b43-a9c1-f686bc5adfc9",
+        "start_time": "09:00:00",
+        "end_time": "09:30:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "0c7d6ff7-309a-4ad1-b269-4cfd39b1110d",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Database Management Systems - Vikram Verma",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": false,
+            "continuous_slot": 2,
+            "weekly_frequency": 4,
+            "faculty_id": "99b0c4c0-7827-4e4d-af14-8fbd070a8b3d",
+            "subject_id": "ba020574-7156-45d9-9ad0-110ed6e151e4",
+            "faculty": {
+                "id": "99b0c4c0-7827-4e4d-af14-8fbd070a8b3d",
+                "faculty_name": "Vikram Verma"
+            },
+            "subject": {
+                "id": "ba020574-7156-45d9-9ad0-110ed6e151e4",
+                "subject_name": "Database Management Systems"
+            }
+        },
+        "daily_slot_number": 0,
+        "weekly_slot_number": 0
+    },
+    {
+        "id": "507e8472-eaaf-4f8f-8c66-dc3931ff3f64",
+        "start_time": "09:30:00",
+        "end_time": "10:00:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "728ee71e-9761-439d-8cf8-36acf56c0d1d",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Data Structures and Algorithms - Rahul Sharma",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": false,
+            "continuous_slot": 1,
+            "weekly_frequency": 4,
+            "faculty_id": "5151f356-21a7-4caa-8d56-a49ca87879ed",
+            "subject_id": "f39f7a0e-7ef5-4363-aae8-deb3bd1d125e",
+            "faculty": {
+                "id": "5151f356-21a7-4caa-8d56-a49ca87879ed",
+                "faculty_name": "Rahul Sharma"
+            },
+            "subject": {
+                "id": "f39f7a0e-7ef5-4363-aae8-deb3bd1d125e",
+                "subject_name": "Data Structures and Algorithms"
+            }
+        },
+        "daily_slot_number": 1,
+        "weekly_slot_number": 1
+    },
+    {
+        "id": "c853ae3e-f99a-4500-b405-1f254cbaa431",
+        "start_time": "10:00:00",
+        "end_time": "10:30:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 2,
+        "weekly_slot_number": 2
+    },
+    {
+        "id": "ec3e93c0-c694-436e-b3d2-2483ea9c2483",
+        "start_time": "10:30:00",
+        "end_time": "11:00:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "b5b9a381-95b4-4b6a-a391-3d940b30ae93",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Database Management Systems - Vikram Verma",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": false,
+            "continuous_slot": 2,
+            "weekly_frequency": 4,
+            "faculty_id": "99b0c4c0-7827-4e4d-af14-8fbd070a8b3d",
+            "subject_id": "ba020574-7156-45d9-9ad0-110ed6e151e4",
+            "faculty": {
+                "id": "99b0c4c0-7827-4e4d-af14-8fbd070a8b3d",
+                "faculty_name": "Vikram Verma"
+            },
+            "subject": {
+                "id": "ba020574-7156-45d9-9ad0-110ed6e151e4",
+                "subject_name": "Database Management Systems"
+            }
+        },
+        "daily_slot_number": 3,
+        "weekly_slot_number": 3
+    },
+    {
+        "id": "fd03de8e-e626-4f49-bb1e-c9e9dea591d7",
+        "start_time": "11:00:00",
+        "end_time": "11:30:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 4,
+        "weekly_slot_number": 4
+    },
+    {
+        "id": "5d2eaf02-f189-4a60-b5b3-adf3226521e4",
+        "start_time": "11:30:00",
+        "end_time": "12:00:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 5,
+        "weekly_slot_number": 5
+    },
+    {
+        "id": "cb77cf27-aaa8-4fbe-94b3-cde154ace8a6",
+        "start_time": "12:00:00",
+        "end_time": "12:30:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 6,
+        "weekly_slot_number": 6
+    },
+    {
+        "id": "dc86f575-77af-41e8-aaf1-2816fd89702f",
+        "start_time": "12:30:00",
+        "end_time": "13:00:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "c8567d70-c3e4-44ab-952d-51a4728c0991",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Database Management Systems - Vikram Verma",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": false,
+            "continuous_slot": 2,
+            "weekly_frequency": 4,
+            "faculty_id": "99b0c4c0-7827-4e4d-af14-8fbd070a8b3d",
+            "subject_id": "ba020574-7156-45d9-9ad0-110ed6e151e4",
+            "faculty": {
+                "id": "99b0c4c0-7827-4e4d-af14-8fbd070a8b3d",
+                "faculty_name": "Vikram Verma"
+            },
+            "subject": {
+                "id": "ba020574-7156-45d9-9ad0-110ed6e151e4",
+                "subject_name": "Database Management Systems"
+            }
+        },
+        "daily_slot_number": 7,
+        "weekly_slot_number": 7
+    },
+    {
+        "id": "cbe23a68-aca3-4265-8340-1422b3f59ff3",
+        "start_time": "13:00:00",
+        "end_time": "13:30:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "2df7da51-42ab-4e37-a331-be5aa36981db",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:00:00",
+            "end_time": "13:30:00",
+            "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "working_day": {
+                "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+                "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                    "day_name": "MONDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 8,
+        "weekly_slot_number": 8
+    },
+    {
+        "id": "3c60a7c0-c2d8-40b1-be4c-ad27d1397145",
+        "start_time": "13:30:00",
+        "end_time": "14:00:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "2df7da51-42ab-4e37-a331-be5aa36981db",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:30:00",
+            "end_time": "14:00:00",
+            "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "working_day": {
+                "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+                "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                    "day_name": "MONDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 9,
+        "weekly_slot_number": 9
+    },
+    {
+        "id": "c44a4936-354a-45a1-ba67-c2f8ea5a7b63",
+        "start_time": "14:00:00",
+        "end_time": "14:30:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 10,
+        "weekly_slot_number": 10
+    },
+    {
+        "id": "5bff2196-4787-487c-abd5-21b77d9dc5db",
+        "start_time": "14:30:00",
+        "end_time": "15:00:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 11,
+        "weekly_slot_number": 11
+    },
+    {
+        "id": "a00da8b5-e15f-45c6-a33e-4cf3eff5c9dc",
+        "start_time": "15:00:00",
+        "end_time": "15:30:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 12,
+        "weekly_slot_number": 12
+    },
+    {
+        "id": "1c56efb3-b2a2-42dd-b483-5aed913faf2d",
+        "start_time": "15:30:00",
+        "end_time": "16:00:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 13,
+        "weekly_slot_number": 13
+    },
+    {
+        "id": "8915e42d-22e8-483d-a884-cf4d6b2942a9",
+        "start_time": "16:00:00",
+        "end_time": "16:30:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "73ed63ea-dd7a-4d1e-a446-57546ab739f1",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Tea",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "16:00:00",
+            "end_time": "16:30:00",
+            "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "working_day": {
+                "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+                "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                    "day_name": "MONDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 14,
+        "weekly_slot_number": 14
+    },
+    {
+        "id": "b14b5ec0-b4a8-47bd-952b-d5f730d13991",
+        "start_time": "16:30:00",
+        "end_time": "17:00:00",
+        "working_day_id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+        "working_day": {
+            "id": "193d4811-8a87-4db8-8188-2a359e2c74dd",
+            "day_id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "f814c6bb-bf84-4589-a3d2-d416f0a37e81",
+                "day_name": "MONDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 15,
+        "weekly_slot_number": 15
+    },
+    {
+        "id": "05576056-12e7-439f-bd2b-eb048de9d712",
+        "start_time": "09:00:00",
+        "end_time": "09:30:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 0,
+        "weekly_slot_number": 0
+    },
+    {
+        "id": "7ecc4703-1c3d-4afb-995a-257a444d59a6",
+        "start_time": "09:30:00",
+        "end_time": "10:00:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 1,
+        "weekly_slot_number": 1
+    },
+    {
+        "id": "34ac89f8-3069-4f7b-9f1e-e21a76ddb46f",
+        "start_time": "10:00:00",
+        "end_time": "10:30:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 2,
+        "weekly_slot_number": 2
+    },
+    {
+        "id": "21a88424-d053-4448-9217-c5bc11028b12",
+        "start_time": "10:30:00",
+        "end_time": "11:00:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "1f4b7093-abbb-428b-a9ec-bf685934ce16",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Data Structures and Algorithms - Rahul Sharma",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": false,
+            "continuous_slot": 1,
+            "weekly_frequency": 4,
+            "faculty_id": "5151f356-21a7-4caa-8d56-a49ca87879ed",
+            "subject_id": "f39f7a0e-7ef5-4363-aae8-deb3bd1d125e",
+            "faculty": {
+                "id": "5151f356-21a7-4caa-8d56-a49ca87879ed",
+                "faculty_name": "Rahul Sharma"
+            },
+            "subject": {
+                "id": "f39f7a0e-7ef5-4363-aae8-deb3bd1d125e",
+                "subject_name": "Data Structures and Algorithms"
+            }
+        },
+        "daily_slot_number": 3,
+        "weekly_slot_number": 3
+    },
+    {
+        "id": "ca41191b-5e93-4f62-a929-b6d94f0b1864",
+        "start_time": "11:00:00",
+        "end_time": "11:30:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 4,
+        "weekly_slot_number": 4
+    },
+    {
+        "id": "4086979f-7e46-4c71-87db-3a45a5be8a7e",
+        "start_time": "11:30:00",
+        "end_time": "12:00:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 5,
+        "weekly_slot_number": 5
+    },
+    {
+        "id": "ddb1bdf6-7a8b-493a-83bc-8fc1170425ec",
+        "start_time": "12:00:00",
+        "end_time": "12:30:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 6,
+        "weekly_slot_number": 6
+    },
+    {
+        "id": "2ef10e1a-7b57-4866-b5c8-dffeab42074b",
+        "start_time": "12:30:00",
+        "end_time": "13:00:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 7,
+        "weekly_slot_number": 7
+    },
+    {
+        "id": "e7da1011-d12f-41f5-99b5-01b1a63e975a",
+        "start_time": "13:00:00",
+        "end_time": "13:30:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "9dc4899b-2b50-4d83-b473-7ecc69ad9a48",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:00:00",
+            "end_time": "13:30:00",
+            "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "working_day": {
+                "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+                "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                    "day_name": "TUESDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 8,
+        "weekly_slot_number": 8
+    },
+    {
+        "id": "b43183be-7658-48f1-8d2b-11f704de810c",
+        "start_time": "13:30:00",
+        "end_time": "14:00:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "9dc4899b-2b50-4d83-b473-7ecc69ad9a48",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:30:00",
+            "end_time": "14:00:00",
+            "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "working_day": {
+                "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+                "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                    "day_name": "TUESDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 9,
+        "weekly_slot_number": 9
+    },
+    {
+        "id": "10204d23-87fe-4ee7-b58b-ad184746aa4b",
+        "start_time": "14:00:00",
+        "end_time": "14:30:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 10,
+        "weekly_slot_number": 10
+    },
+    {
+        "id": "5995cb82-c7b1-4b38-bb71-53cb15b9c5b8",
+        "start_time": "14:30:00",
+        "end_time": "15:00:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 11,
+        "weekly_slot_number": 11
+    },
+    {
+        "id": "94384016-0592-4a5e-be66-2353a085d4af",
+        "start_time": "15:00:00",
+        "end_time": "15:30:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 12,
+        "weekly_slot_number": 12
+    },
+    {
+        "id": "21da98c7-6bdb-4265-acb4-51dcf533110b",
+        "start_time": "15:30:00",
+        "end_time": "16:00:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 13,
+        "weekly_slot_number": 13
+    },
+    {
+        "id": "0ded2b57-58c9-464c-8ff7-65478ba05c8c",
+        "start_time": "16:00:00",
+        "end_time": "16:30:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "28f3abd5-f916-4854-aac0-bef99d54bdf0",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Tea",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "16:00:00",
+            "end_time": "16:30:00",
+            "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "working_day": {
+                "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+                "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                    "day_name": "TUESDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 14,
+        "weekly_slot_number": 14
+    },
+    {
+        "id": "0429f409-29c9-4275-a10c-3af776934744",
+        "start_time": "16:30:00",
+        "end_time": "17:00:00",
+        "working_day_id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+        "working_day": {
+            "id": "81229915-4b73-4373-8005-c320ec9b7f1a",
+            "day_id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "6fca83fd-90e9-418f-ba1a-345d28534bb1",
+                "day_name": "TUESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 15,
+        "weekly_slot_number": 15
+    },
+    {
+        "id": "9ffa0616-c6c0-4ab8-9ca3-0bbc5d5840c6",
+        "start_time": "09:00:00",
+        "end_time": "09:30:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "bb0c468c-6baf-4ad5-9eb9-4495e877d13d",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Data Structures and Algorithms - Rahul Sharma",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": false,
+            "continuous_slot": 1,
+            "weekly_frequency": 4,
+            "faculty_id": "5151f356-21a7-4caa-8d56-a49ca87879ed",
+            "subject_id": "f39f7a0e-7ef5-4363-aae8-deb3bd1d125e",
+            "faculty": {
+                "id": "5151f356-21a7-4caa-8d56-a49ca87879ed",
+                "faculty_name": "Rahul Sharma"
+            },
+            "subject": {
+                "id": "f39f7a0e-7ef5-4363-aae8-deb3bd1d125e",
+                "subject_name": "Data Structures and Algorithms"
+            }
+        },
+        "daily_slot_number": 0,
+        "weekly_slot_number": 0
+    },
+    {
+        "id": "27c0bb0b-7c25-4725-ad41-ae20c313cc09",
+        "start_time": "09:30:00",
+        "end_time": "10:00:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 1,
+        "weekly_slot_number": 1
+    },
+    {
+        "id": "61475d24-d81d-436b-9f1a-7c041a04e79a",
+        "start_time": "10:00:00",
+        "end_time": "10:30:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 2,
+        "weekly_slot_number": 2
+    },
+    {
+        "id": "fcea600c-0919-4da1-922f-04bba7fd11ba",
+        "start_time": "10:30:00",
+        "end_time": "11:00:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 3,
+        "weekly_slot_number": 3
+    },
+    {
+        "id": "7db8f85b-bdce-45e1-9114-5cd02c28fa80",
+        "start_time": "11:00:00",
+        "end_time": "11:30:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 4,
+        "weekly_slot_number": 4
+    },
+    {
+        "id": "514cdbca-f81b-42c7-8d36-df34b933cae3",
+        "start_time": "11:30:00",
+        "end_time": "12:00:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 5,
+        "weekly_slot_number": 5
+    },
+    {
+        "id": "e1f7fef9-e2d8-47f9-9bef-27cc8afbdd65",
+        "start_time": "12:00:00",
+        "end_time": "12:30:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 6,
+        "weekly_slot_number": 6
+    },
+    {
+        "id": "8362f7c3-40af-4189-ba1f-92b53c5da469",
+        "start_time": "12:30:00",
+        "end_time": "13:00:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 7,
+        "weekly_slot_number": 7
+    },
+    {
+        "id": "ad103a4d-c065-421a-9c42-91dfd62b200a",
+        "start_time": "13:00:00",
+        "end_time": "13:30:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "bee2cdb8-4a64-4680-8644-fd27b60e5c94",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:00:00",
+            "end_time": "13:30:00",
+            "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "working_day": {
+                "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+                "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                    "day_name": "WEDNESDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 8,
+        "weekly_slot_number": 8
+    },
+    {
+        "id": "b2dbac20-a1af-4f06-a06d-1dbb2e0bc8a2",
+        "start_time": "13:30:00",
+        "end_time": "14:00:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "bee2cdb8-4a64-4680-8644-fd27b60e5c94",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:30:00",
+            "end_time": "14:00:00",
+            "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "working_day": {
+                "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+                "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                    "day_name": "WEDNESDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 9,
+        "weekly_slot_number": 9
+    },
+    {
+        "id": "aede2093-657f-4be6-b7ff-60ef5339ea79",
+        "start_time": "14:00:00",
+        "end_time": "14:30:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 10,
+        "weekly_slot_number": 10
+    },
+    {
+        "id": "ee64c8fa-300b-4808-9973-708b84109b25",
+        "start_time": "14:30:00",
+        "end_time": "15:00:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 11,
+        "weekly_slot_number": 11
+    },
+    {
+        "id": "770036cd-4b67-4c08-9158-9c278ae0e854",
+        "start_time": "15:00:00",
+        "end_time": "15:30:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 12,
+        "weekly_slot_number": 12
+    },
+    {
+        "id": "2c44fa91-7fab-4d6c-b456-00a168d66b17",
+        "start_time": "15:30:00",
+        "end_time": "16:00:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 13,
+        "weekly_slot_number": 13
+    },
+    {
+        "id": "0a9f0639-d22f-45fd-a801-34b244adea7c",
+        "start_time": "16:00:00",
+        "end_time": "16:30:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "416240c7-ffa5-4098-8585-3af41b872ffa",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Tea",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "16:00:00",
+            "end_time": "16:30:00",
+            "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "working_day": {
+                "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+                "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                    "day_name": "WEDNESDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 14,
+        "weekly_slot_number": 14
+    },
+    {
+        "id": "49a36791-6cce-45dc-8dc5-aa313b4a6208",
+        "start_time": "16:30:00",
+        "end_time": "17:00:00",
+        "working_day_id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+        "working_day": {
+            "id": "0490da5d-8cb2-4268-90d8-2d86e6f38bc9",
+            "day_id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "b4722d4a-591c-4b60-9243-64dec0912b04",
+                "day_name": "WEDNESDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 15,
+        "weekly_slot_number": 15
+    },
+    {
+        "id": "ec70452b-0fbb-4062-9d81-feca54a73741",
+        "start_time": "09:00:00",
+        "end_time": "09:30:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 0,
+        "weekly_slot_number": 0
+    },
+    {
+        "id": "a72d6340-a68f-457b-957b-2bfd4e3eecb5",
+        "start_time": "09:30:00",
+        "end_time": "10:00:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 1,
+        "weekly_slot_number": 1
+    },
+    {
+        "id": "950ba561-38d3-45e6-a401-0b667b9371c3",
+        "start_time": "10:00:00",
+        "end_time": "10:30:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 2,
+        "weekly_slot_number": 2
+    },
+    {
+        "id": "13489b60-971b-4851-97c6-b845821c5c7c",
+        "start_time": "10:30:00",
+        "end_time": "11:00:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "478374c5-dd97-470b-84e0-6d6c5a615110",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Data Structures and Algorithms - Rahul Sharma",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": false,
+            "continuous_slot": 1,
+            "weekly_frequency": 4,
+            "faculty_id": "5151f356-21a7-4caa-8d56-a49ca87879ed",
+            "subject_id": "f39f7a0e-7ef5-4363-aae8-deb3bd1d125e",
+            "faculty": {
+                "id": "5151f356-21a7-4caa-8d56-a49ca87879ed",
+                "faculty_name": "Rahul Sharma"
+            },
+            "subject": {
+                "id": "f39f7a0e-7ef5-4363-aae8-deb3bd1d125e",
+                "subject_name": "Data Structures and Algorithms"
+            }
+        },
+        "daily_slot_number": 3,
+        "weekly_slot_number": 3
+    },
+    {
+        "id": "e0a5bf38-a6cd-449a-b6f7-c4078009387b",
+        "start_time": "11:00:00",
+        "end_time": "11:30:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 4,
+        "weekly_slot_number": 4
+    },
+    {
+        "id": "08d82fee-44ce-40de-a08b-6e0200171adb",
+        "start_time": "11:30:00",
+        "end_time": "12:00:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 5,
+        "weekly_slot_number": 5
+    },
+    {
+        "id": "a5ee6a57-25a3-4d97-a474-6ba8c823c6c6",
+        "start_time": "12:00:00",
+        "end_time": "12:30:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 6,
+        "weekly_slot_number": 6
+    },
+    {
+        "id": "54497c9c-177a-41aa-9072-67bb32e36296",
+        "start_time": "12:30:00",
+        "end_time": "13:00:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 7,
+        "weekly_slot_number": 7
+    },
+    {
+        "id": "93865ef0-7227-4b0b-a38b-baf1a59ee5f6",
+        "start_time": "13:00:00",
+        "end_time": "13:30:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "4568917b-6e13-4353-ac08-511d8d30edb7",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:00:00",
+            "end_time": "13:30:00",
+            "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "working_day": {
+                "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+                "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                    "day_name": "THURSDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 8,
+        "weekly_slot_number": 8
+    },
+    {
+        "id": "e17abccb-5a9f-4096-9540-8ea37daffc36",
+        "start_time": "13:30:00",
+        "end_time": "14:00:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "4568917b-6e13-4353-ac08-511d8d30edb7",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:30:00",
+            "end_time": "14:00:00",
+            "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "working_day": {
+                "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+                "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                    "day_name": "THURSDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 9,
+        "weekly_slot_number": 9
+    },
+    {
+        "id": "aa826433-8db8-4dbc-80db-4d05a477ad1a",
+        "start_time": "14:00:00",
+        "end_time": "14:30:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 10,
+        "weekly_slot_number": 10
+    },
+    {
+        "id": "223ab93b-0f97-48a2-b8c7-ee21e6016146",
+        "start_time": "14:30:00",
+        "end_time": "15:00:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 11,
+        "weekly_slot_number": 11
+    },
+    {
+        "id": "03129f2c-25d6-4a4d-93dc-c1ad84e3f918",
+        "start_time": "15:00:00",
+        "end_time": "15:30:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 12,
+        "weekly_slot_number": 12
+    },
+    {
+        "id": "64cabbf7-5bf6-4af3-b2ee-5d1f70599cfc",
+        "start_time": "15:30:00",
+        "end_time": "16:00:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 13,
+        "weekly_slot_number": 13
+    },
+    {
+        "id": "9f162bfa-874b-4163-9fcc-bbe2f848c312",
+        "start_time": "16:00:00",
+        "end_time": "16:30:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "2a6df6f6-815e-4b8c-85c4-c15245c0c1dd",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Tea",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "16:00:00",
+            "end_time": "16:30:00",
+            "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "working_day": {
+                "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+                "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                    "day_name": "THURSDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 14,
+        "weekly_slot_number": 14
+    },
+    {
+        "id": "3600b9c3-aeb9-457f-a027-914142706857",
+        "start_time": "16:30:00",
+        "end_time": "17:00:00",
+        "working_day_id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+        "working_day": {
+            "id": "c96955b4-f429-4095-90f6-86b7a7ac45fa",
+            "day_id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "812546ea-a4d2-4262-84de-62b29b43d4db",
+                "day_name": "THURSDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 15,
+        "weekly_slot_number": 15
+    },
+    {
+        "id": "49fd6509-56ea-4d1c-8872-693ded0f5b98",
+        "start_time": "09:00:00",
+        "end_time": "09:30:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 0,
+        "weekly_slot_number": 0
+    },
+    {
+        "id": "de03caf4-34b9-4b7f-b666-a75b92d552fe",
+        "start_time": "09:30:00",
+        "end_time": "10:00:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 1,
+        "weekly_slot_number": 1
+    },
+    {
+        "id": "7dd0fcff-0c58-48ad-80ae-ee0d50740786",
+        "start_time": "10:00:00",
+        "end_time": "10:30:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 2,
+        "weekly_slot_number": 2
+    },
+    {
+        "id": "6481aecd-e946-4b7b-862b-0504bf875214",
+        "start_time": "10:30:00",
+        "end_time": "11:00:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "d7066d1e-2a9b-49f1-b1a5-0b8cab0104c6",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Database Management Systems - Vikram Verma",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": false,
+            "continuous_slot": 2,
+            "weekly_frequency": 4,
+            "faculty_id": "99b0c4c0-7827-4e4d-af14-8fbd070a8b3d",
+            "subject_id": "ba020574-7156-45d9-9ad0-110ed6e151e4",
+            "faculty": {
+                "id": "99b0c4c0-7827-4e4d-af14-8fbd070a8b3d",
+                "faculty_name": "Vikram Verma"
+            },
+            "subject": {
+                "id": "ba020574-7156-45d9-9ad0-110ed6e151e4",
+                "subject_name": "Database Management Systems"
+            }
+        },
+        "daily_slot_number": 3,
+        "weekly_slot_number": 3
+    },
+    {
+        "id": "bb7d4a3d-f7aa-4ade-9542-f09dfbca6e5e",
+        "start_time": "11:00:00",
+        "end_time": "11:30:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 4,
+        "weekly_slot_number": 4
+    },
+    {
+        "id": "29c6a452-56cf-47dd-9282-6c06ebfab9c1",
+        "start_time": "11:30:00",
+        "end_time": "12:00:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 5,
+        "weekly_slot_number": 5
+    },
+    {
+        "id": "ead68ebd-e6d3-4a63-8bec-dc90449880e5",
+        "start_time": "12:00:00",
+        "end_time": "12:30:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 6,
+        "weekly_slot_number": 6
+    },
+    {
+        "id": "8efe5ce1-c821-4024-8fb9-07dfa6ea8eda",
+        "start_time": "12:30:00",
+        "end_time": "13:00:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 7,
+        "weekly_slot_number": 7
+    },
+    {
+        "id": "da26dab8-9fff-4337-a81c-a01a006efdb4",
+        "start_time": "13:00:00",
+        "end_time": "13:30:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "66f6abcd-f33e-4764-a2f2-d6220ccb3f93",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:00:00",
+            "end_time": "13:30:00",
+            "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "working_day": {
+                "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+                "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                    "day_name": "FRIDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 8,
+        "weekly_slot_number": 8
+    },
+    {
+        "id": "e92894b2-d9cc-4d76-8210-959888c5ae26",
+        "start_time": "13:30:00",
+        "end_time": "14:00:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "66f6abcd-f33e-4764-a2f2-d6220ccb3f93",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Breakfast",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "13:30:00",
+            "end_time": "14:00:00",
+            "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "working_day": {
+                "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+                "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                    "day_name": "FRIDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 9,
+        "weekly_slot_number": 9
+    },
+    {
+        "id": "3f074a6e-fb55-444c-80e0-abf1d308a1cd",
+        "start_time": "14:00:00",
+        "end_time": "14:30:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 10,
+        "weekly_slot_number": 10
+    },
+    {
+        "id": "ce68002d-33a7-4efc-986e-1dd2d11fa11d",
+        "start_time": "14:30:00",
+        "end_time": "15:00:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 11,
+        "weekly_slot_number": 11
+    },
+    {
+        "id": "f0f51d7e-cd44-4683-8f6a-b29a229b1077",
+        "start_time": "15:00:00",
+        "end_time": "15:30:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 12,
+        "weekly_slot_number": 12
+    },
+    {
+        "id": "bb1011c5-c74d-4a72-991c-b014fe5bd0cd",
+        "start_time": "15:30:00",
+        "end_time": "16:00:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 13,
+        "weekly_slot_number": 13
+    },
+    {
+        "id": "85cb764e-d3c8-4168-a2b4-72f7c5f70bdf",
+        "start_time": "16:00:00",
+        "end_time": "16:30:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": {
+            "id": "d52faa37-0e6d-45ba-8f22-80f4f8be4035",
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "name": "Tea",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            },
+            "fixed_slot": true,
+            "continuous_slot": 1,
+            "weekly_frequency": 1,
+            "start_time": "16:00:00",
+            "end_time": "16:30:00",
+            "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "working_day": {
+                "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+                "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "start_time": "09:00:00",
+                "end_time": "17:00:00",
+                "slot_duration": 1800,
+                "day": {
+                    "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                    "day_name": "FRIDAY"
+                },
+                "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division": {
+                    "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                    "division_name": "FE1",
+                    "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard": {
+                        "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                        "standard_name": "FE-IT",
+                        "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department": {
+                            "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                            "department_name": "IT",
+                            "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university": {
+                                "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                                "university_name": "SAKEC"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "daily_slot_number": 14,
+        "weekly_slot_number": 14
+    },
+    {
+        "id": "7f7ac590-9d2f-4e11-bf4e-6b82285df99b",
+        "start_time": "16:30:00",
+        "end_time": "17:00:00",
+        "working_day_id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+        "working_day": {
+            "id": "62572711-d625-4cc0-82ee-7f63f037f3e2",
+            "day_id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+            "start_time": "09:00:00",
+            "end_time": "17:00:00",
+            "slot_duration": 1800,
+            "day": {
+                "id": "9983c499-38a7-4b48-aeca-557c915cdeb7",
+                "day_name": "FRIDAY"
+            },
+            "division_id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+            "division": {
+                "id": "d44b65fb-5b69-4afb-80af-64c77a8b591e",
+                "division_name": "FE1",
+                "standard_id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                "standard": {
+                    "id": "f348ada8-c39a-4021-aa31-8511a86f79a4",
+                    "standard_name": "FE-IT",
+                    "department_id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                    "department": {
+                        "id": "3d9fdf70-c600-4419-b03e-e71931fc1ff0",
+                        "department_name": "IT",
+                        "university_id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                        "university": {
+                            "id": "610cf029-6e0c-494b-8010-e5c02253971a",
+                            "university_name": "SAKEC"
+                        }
+                    }
+                }
+            }
+        },
+        "slot_alloted_to": null,
+        "daily_slot_number": 15,
+        "weekly_slot_number": 15
+    }
+]
