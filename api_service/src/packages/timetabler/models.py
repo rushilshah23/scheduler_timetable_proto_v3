@@ -397,6 +397,7 @@ class SlotAllotable(Base):
     continuous_slot = db.Column(db.Integer)
     weekly_frequency = db.Column(db.Integer)
     fixed_slot = db.Column(db.Boolean, default=False)
+    next_slot = db.Column(db.String, db.ForeignKey('slot_allotables.id'), nullable=True)
 
     division = db.relationship('Division', backref=db.backref('slot_allotables', lazy=True))
     slot_allotable_entities = db.relationship('SlotAllotableEntity', backref=db.backref('slot_allotables', lazy=True), cascade='all, delete')
@@ -411,7 +412,11 @@ class SlotAllotable(Base):
             "division": self.division.to_dict() if self.division else None,
             "fixed_slot": self.fixed_slot,
             "continuous_slot": self.continuous_slot,
-            "weekly_frequency": self.weekly_frequency
+            "weekly_frequency": self.weekly_frequency,
+            "next_slot": self.next_slot,
+            "slot_allotable_entities": [
+                entity.to_dict() for entity in self.slot_allotable_entities
+            ] if self.slot_allotable_entities else []
         }
 
 class FixedSlotAllotable(SlotAllotable):

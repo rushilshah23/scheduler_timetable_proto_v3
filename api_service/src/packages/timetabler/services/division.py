@@ -1,105 +1,46 @@
 from .base import DatabaseService
 
 class DivisionService(DatabaseService):
-    """
-    Service class for managing operations related to the `divisions` table.
-    """
-
-    def create_division(self, id, division_name, standard_id):
+    def create_division(self, id, name, standard_id):
+        query = """
+        INSERT INTO divisions (id, name, standard_id)
+        VALUES (:id, :name, :standard_id) RETURNING row_to_json(divisions.*);
         """
-        Creates a new division and inserts it into the `divisions` table.
-        """
-        # Check if the division already exists with the same id
-        check_query = """
-        SELECT * FROM divisions WHERE id = :id;
-        """
-        existing_division = self.execute_query(check_query, {"id": id}).fetchone()
-
-        if existing_division:
-            raise ValueError(f"Division with ID {id} already exists.")
-
-        # Check if the standard exists
-        check_standard_query = """
-        SELECT * FROM standards WHERE id = :standard_id;
-        """
-        standard = self.execute_query(check_standard_query, {"standard_id": standard_id}).fetchone()
-        if not standard:
-            raise ValueError(f"No standard found with ID {standard_id}.")
-
-        # Insert the new division
-        insert_query = """
-        INSERT INTO divisions (id, division_name, standard_id) 
-        VALUES (:id, :division_name, :standard_id) 
-        RETURNING row_to_json(divisions.*);
-        """
-        result = self.execute_query(insert_query, {
-            "id": id,
-            "division_name": division_name,
-            "standard_id": standard_id
-        })
+        result = self.execute_query(query, {"id": id, "name": name, "standard_id": standard_id})
         return result.fetchone()[0]
 
     def get_division(self, division_id):
-        """
-        Fetches a division by its ID.
-        """
-        query = """
-        SELECT * FROM divisions WHERE id = :id;
-        """
+        query = "SELECT * FROM divisions WHERE id = :id;"
         result = self.execute_query(query, {"id": division_id}).fetchone()
         if not result:
             raise ValueError(f"No division found with ID {division_id}.")
         return result
 
-    def update_division(self, division_id, division_name, standard_id):
+    def update_division(self, division_id, **kwargs):
+        update_fields = ", ".join([f"{key} = :{key}" for key in kwargs])
+        query = f"""
+        UPDATE divisions SET {update_fields} WHERE id = :id RETURNING row_to_json(divisions.*);
         """
-        Updates the details of a division.
-        """
-        # Check if the division exists
-        check_query = """
-        SELECT * FROM divisions WHERE id = :id;
-        """
-        existing_division = self.execute_query(check_query, {"id": division_id}).fetchone()
-        if not existing_division:
-            raise ValueError(f"No division found with ID {division_id} to update.")
+        params = kwargs
+        params["id"] = division_id
 
-        # Check if the standard exists
-        check_standard_query = """
-        SELECT * FROM standards WHERE id = :standard_id;
-        """
-        standard = self.execute_query(check_standard_query, {"standard_id": standard_id}).fetchone()
-        if not standard:
-            raise ValueError(f"No standard found with ID {standard_id}.")
-
-        # Update the division details
-        update_query = """
-        UPDATE divisions 
-        SET division_name = :division_name, standard_id = :standard_id
-        WHERE id = :id
-        RETURNING row_to_json(divisions.*);
-        """
-        result = self.execute_query(update_query, {
-            "id": division_id,
-            "division_name": division_name,
-            "standard_id": standard_id
-        })
-        return result.fetchone()[0]
+        result = self.execute_query(query, params).fetchone()
+        if not result:
+            raise ValueError(f"Failed to update division with ID {division_id}.")
+        return result[0]
 
     def delete_division(self, division_id):
-        """
-        Deletes a division by its ID.
-        """
-        # Check if the division exists
-        check_query = """
-        SELECT * FROM divisions WHERE id = :id;
-        """
-        existing_division = self.execute_query(check_query, {"id": division_id}).fetchone()
-        if not existing_division:
+        query = "DELETE FROM divisions WHERE id = :id RETURNING id;"
+        result = self.execute_query(query, {"id": division_id}).fetchone()
+        if not result:
             raise ValueError(f"No division found with ID {division_id} to delete.")
+        return result[0]
 
-        # Delete the division
-        delete_query = """
-        DELETE FROM divisions WHERE id = :id;
-        """
-        self.execute_query(delete_query, {"id": division_id})
-        return {"message": f"Division with ID {division_id} has been deleted."}
+    def list_divisions(self, standard_id=None):
+        if standard_id:
+            query = "SELECT * FROM divisions WHERE standard_id = :standard_id;"
+            result = self.execute_query(query, {"standard_id": standard_id})
+        else:
+            query = "SELECT * FROM divisions;"
+            result = self.execute_query(query)
+        return [row for row in result.fetchall()]

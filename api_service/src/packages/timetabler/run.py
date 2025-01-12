@@ -1,6 +1,11 @@
 
-from timetabler.modules.ga_scale import generate_timetable
+# from timetabler.modules_v2.ga_scale import generate_timetable
+# from timetabler.business_v2.business_utils import Utils
+# from timetabler.business_v2.utils import save_output_file
 
+
+
+from timetabler.modules.ga_scale import generate_timetable
 from timetabler.business.business_utils import Utils
 from timetabler.business.utils import save_output_file
 

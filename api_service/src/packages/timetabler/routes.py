@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, request, abort, Blueprint
 from sqlalchemy.orm import Session
-from . import service, models, schemas
+from . import service, models_v2, schemas
 from src.utils import database
 
 
@@ -13,48 +13,48 @@ from src.packages.timetabler.service import CRUDUtilities
 timetable_router = Blueprint('timetable_router',__name__)
 
 
-# Route to create a new day
-@timetable_router.route("/days/", methods=["POST"])
-def create_day():
-    # db: Session = database.SessionLocal()
-    db: Session = next(database.get_db())
+# # Route to create a new day
+# @timetable_router.route("/days/", methods=["POST"])
+# def create_day():
+#     # db: Session = database.SessionLocal()
+#     db: Session = next(database.get_db())
 
-    service = CRUDUtilities(db_session=db)
+#     service = CRUDUtilities(db_session=db)
 
-    try:
-        # Validate the request data
-        data = request.get_json()
-        if not data or not all(key in data for key in ('id', 'day_name')):
-            return jsonify({"error": "Invalid input"}), 400
+#     try:
+#         # Validate the request data
+#         data = request.get_json()
+#         if not data or not all(key in data for key in ('id', 'day_name')):
+#             return jsonify({"error": "Invalid input"}), 400
 
-        # Use the service function to create the day
-        created_day = service.create_day(day_data=data)
-        if created_day.rowcount == 1:
-            return jsonify({
-                "message": "Day created successfully",
-                "data": {
-                    "id": data["id"],
-                    "day_name": data["day_name"]
-                }
-            }), 201
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-    finally:
-        db.close()
+#         # Use the service function to create the day
+#         created_day = service.create_day(day_data=data)
+#         if created_day.rowcount == 1:
+#             return jsonify({
+#                 "message": "Day created successfully",
+#                 "data": {
+#                     "id": data["id"],
+#                     "day_name": data["day_name"]
+#                 }
+#             }), 201
+#     except Exception as e:
+#         return jsonify({"error": str(e)}), 500
+#     finally:
+#         db.close()
 
-# Route to get a day by ID
-@timetable_router.route("/days/<string:day_id>", methods=["GET"])
-def get_day_by_id(day_id):
-    db = next(database.get_db())  # Get the DB session
-    service = CRUDUtilities(db_session=db)
+# # Route to get a day by ID
+# @timetable_router.route("/days/<string:day_id>", methods=["GET"])
+# def get_day_by_id(day_id):
+#     db = next(database.get_db())  # Get the DB session
+#     service = CRUDUtilities(db_session=db)
 
-    try:
-        db_day = service.get_day(day_id=day_id)
-        if db_day is None:
-            abort(404, description="Day not found")
-        return jsonify(db_day.to_dict())
-    finally:
-        db.close()
+#     try:
+#         db_day = service.get_day(day_id=day_id)
+#         if db_day is None:
+#             abort(404, description="Day not found")
+#         return jsonify(db_day.to_dict())
+#     finally:
+#         db.close()
 
 
 # @timetable_router.route("/", methods=['POST'])

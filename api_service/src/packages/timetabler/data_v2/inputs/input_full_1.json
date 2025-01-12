@@ -1,0 +1,3636 @@
+{
+    "university": "SAKEC",
+    "imageURL": null,
+    "departments": [
+        {
+            "departmentName": "IT"
+        },
+        {
+            "departmentName": "CS"
+        },
+        {
+            "departmentName": "EXTC"
+        },
+        {
+            "departmentName": "ETX"
+        }
+    ],
+    "standards": [
+        {
+            "standardName": "FE-IT",
+            "departmentName": "IT"
+        },
+        {
+            "standardName": "FE-CS",
+            "departmentName": "CS"
+        },
+        {
+            "standardName": "FE-EXTC",
+            "departmentName": "EXTC"
+        },
+        {
+            "standardName": "FE-ETX",
+            "departmentName": "ETX"
+        },
+        {
+            "standardName": "SE-IT",
+            "departmentName": "IT"
+        },
+        {
+            "standardName": "SE-CS",
+            "departmentName": "CS"
+        },
+        {
+            "standardName": "SE-EXTC",
+            "departmentName": "EXTC"
+        },
+        {
+            "standardName": "SE-ETX",
+            "departmentName": "ETX"
+        },
+        {
+            "standardName": "TE-IT",
+            "departmentName": "IT"
+        },
+        {
+            "standardName": "TE-CS",
+            "departmentName": "CS"
+        },
+        {
+            "standardName": "TE-EXTC",
+            "departmentName": "EXTC"
+        },
+        {
+            "standardName": "TE-ETX",
+            "departmentName": "ETX"
+        },
+        {
+            "standardName": "BE-IT",
+            "departmentName": "IT"
+        },
+        {
+            "standardName": "BE-CS",
+            "departmentName": "CS"
+        },
+        {
+            "standardName": "BE-EXTC",
+            "departmentName": "EXTC"
+        },
+        {
+            "standardName": "BE-ETX",
+            "departmentName": "ETX"
+        }
+    ],
+    "divisions": [
+        {
+            "divisionName": "FE1",
+            "standardName": "FE-IT"
+        },
+        {
+            "divisionName": "FE2",
+            "standardName": "FE-IT"
+        },
+        {
+            "divisionName": "FE3",
+            "standardName": "FE-CS"
+        },
+        {
+            "divisionName": "FE4",
+            "standardName": "FE-CS"
+        },
+        {
+            "divisionName": "FE5",
+            "standardName": "FE-EXTC"
+        },
+        {
+            "divisionName": "FE6",
+            "standardName": "FE-EXTC"
+        },
+        {
+            "divisionName": "FE7",
+            "standardName": "FE-ETX"
+        },
+        {
+            "divisionName": "FE8",
+            "standardName": "FE-ETX"
+        },
+        {
+            "divisionName": "SE1",
+            "standardName": "SE-IT"
+        },
+        {
+            "divisionName": "SE2",
+            "standardName": "SE-IT"
+        },
+        {
+            "divisionName": "SE3",
+            "standardName": "SE-CS"
+        },
+        {
+            "divisionName": "SE4",
+            "standardName": "SE-CS"
+        },
+        {
+            "divisionName": "SE5",
+            "standardName": "SE-EXTC"
+        },
+        {
+            "divisionName": "SE6",
+            "standardName": "SE-EXTC"
+        },
+        {
+            "divisionName": "SE7",
+            "standardName": "SE-ETX"
+        },
+        {
+            "divisionName": "SE8",
+            "standardName": "SE-ETX"
+        },
+        {
+            "divisionName": "TE1",
+            "standardName": "TE-IT"
+        },
+        {
+            "divisionName": "TE2",
+            "standardName": "TE-IT"
+        },
+        {
+            "divisionName": "TE3",
+            "standardName": "TE-CS"
+        },
+        {
+            "divisionName": "TE4",
+            "standardName": "TE-CS"
+        },
+        {
+            "divisionName": "TE5",
+            "standardName": "TE-EXTC"
+        },
+        {
+            "divisionName": "TE6",
+            "standardName": "TE-EXTC"
+        },
+        {
+            "divisionName": "TE7",
+            "standardName": "TE-ETX"
+        },
+        {
+            "divisionName": "TE8",
+            "standardName": "TE-ETX"
+        },
+        {
+            "divisionName": "BE1",
+            "standardName": "BE-IT"
+        },
+        {
+            "divisionName": "BE2",
+            "standardName": "BE-IT"
+        },
+        {
+            "divisionName": "BE3",
+            "standardName": "BE-CS"
+        },
+        {
+            "divisionName": "BE4",
+            "standardName": "BE-CS"
+        },
+        {
+            "divisionName": "BE5",
+            "standardName": "BE-EXTC"
+        },
+        {
+            "divisionName": "BE6",
+            "standardName": "BE-EXTC"
+        },
+        {
+            "divisionName": "BE7",
+            "standardName": "BE-ETX"
+        },
+        {
+            "divisionName": "BE8",
+            "standardName": "BE-ETX"
+        }
+        
+        
+    ],
+    "workingDays": [
+        {
+            "divisionName": "FE1",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "FE2",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "FE3",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "FE4",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "FE5",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "FE6",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "FE7",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "FE8",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "SE1",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "SE2",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "SE3",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "SE4",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "SE5",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "SE6",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "SE7",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "SE8",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+
+        {
+            "divisionName": "TE1",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "TE2",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "TE3",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "TE4",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "TE5",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "TE6",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "TE7",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "TE8",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+
+        {
+            "divisionName": "BE1",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "BE2",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "BE3",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "BE4",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "BE5",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "BE6",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "BE7",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        },
+        {
+            "divisionName": "BE8",
+            "schedule": [
+                {
+                    "dayName": "MONDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "TUESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "WEDNESDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "THURSDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                },
+                {
+                    "dayName": "FRIDAY",
+                    "startTime": "9:00am",
+                    "endTime": "5:00pm",
+                    "breaks": [
+                        {
+                            "breakName": "Breakfast",
+                            "startTime": "1:00pm",
+                            "endTime": "2:00pm"
+                        },
+                        {
+                            "breakName": "Tea",
+                            "startTime": "4:00pm",
+                            "endTime": "4:30pm"
+                        }
+                    ],
+                    "slotSize": 1800
+                }
+            ]
+        }
+    ],
+    "subjects": [
+        {
+            "subjectName": "Data Structures and Algorithms"
+        },
+        {
+            "subjectName": "Database Management Systems"
+        },
+        {
+            "subjectName": "Operating Systems"
+        },
+        {
+            "subjectName": "Computer Networks"
+        },
+        {
+            "subjectName": "Software Engineering"
+        },
+        {
+            "subjectName": "Artificial Intelligence"
+        },
+        {
+            "subjectName": "Machine Learning"
+        },
+        {
+            "subjectName": "Cybersecurity"
+        },
+        {
+            "subjectName": "Web Development"
+        },
+        {
+            "subjectName": "Mobile Application Development"
+        },
+        {
+            "subjectName": "Cloud Computing"
+        },
+        {
+            "subjectName": "Internet of Things (IoT)"
+        },
+        {
+            "subjectName": "Compiler Design"
+        },
+        {
+            "subjectName": "Computer Graphics"
+        },
+        {
+            "subjectName": "Big Data Analytics"
+        },
+        {
+            "subjectName": "Blockchain Technology"
+        },
+        {
+            "subjectName": "DevOps"
+        },
+        {
+            "subjectName": "Human Computer Interaction"
+        },
+        {
+            "subjectName": "Quantum Computing"
+        },
+        {
+            "subjectName": "Natural Language Processing"
+        },
+        
+            { "subjectName": "Advanced Data Structures" },
+            { "subjectName": "Advanced Algorithms" },
+            { "subjectName": "High-Performance Computing" },
+            { "subjectName": "Parallel and Distributed Systems" },
+            { "subjectName": "Cryptography and Network Security" },
+            { "subjectName": "Computational Geometry" },
+            { "subjectName": "Digital Logic Design" },
+            { "subjectName": "Real-Time Systems" },
+            { "subjectName": "Embedded Systems" },
+            { "subjectName": "Distributed Databases" },
+            { "subjectName": "Fault-Tolerant Systems" },
+            { "subjectName": "Computer Architecture" },
+            { "subjectName": "Systems Programming" },
+            { "subjectName": "Formal Methods in Software Engineering" },
+            { "subjectName": "Digital Signal Processing" },
+            { "subjectName": "Computer Vision" },
+            { "subjectName": "Software Testing and Quality Assurance" },
+            { "subjectName": "Advanced Operating Systems" },
+            { "subjectName": "Game Development" },
+            { "subjectName": "Semantic Web Technologies" },
+            { "subjectName": "Deep Learning" },
+            { "subjectName": "Reinforcement Learning" },
+            { "subjectName": "Generative Adversarial Networks" },
+            { "subjectName": "Explainable AI" },
+            { "subjectName": "AI Ethics" },
+            { "subjectName": "Probabilistic Graphical Models" },
+            { "subjectName": "Computer Audition" },
+            { "subjectName": "Cognitive Computing" },
+            { "subjectName": "Machine Vision Systems" },
+            { "subjectName": "Robotic Process Automation" },
+            { "subjectName": "Analog Circuits" },
+            { "subjectName": "Digital Circuits" },
+            { "subjectName": "VLSI Design" },
+            { "subjectName": "Microprocessors and Microcontrollers" },
+            { "subjectName": "Advanced Communication Systems" },
+            { "subjectName": "Signal and Systems" },
+            { "subjectName": "Optical Fiber Communication" },
+            { "subjectName": "Wireless Communication" },
+            { "subjectName": "Radar and Satellite Systems" },
+            { "subjectName": "Antenna Design" },
+            { "subjectName": "Fluid Mechanics" },
+            { "subjectName": "Thermodynamics" },
+            { "subjectName": "Mechanics of Materials" },
+            { "subjectName": "Kinematics and Dynamics of Machines" },
+            { "subjectName": "Robotics and Automation" },
+            { "subjectName": "CAD/CAM/CAE" },
+            { "subjectName": "Additive Manufacturing" },
+            { "subjectName": "Renewable Energy Systems" },
+            { "subjectName": "HVAC Systems" },
+            { "subjectName": "Advanced Manufacturing Processes" },
+            { "subjectName": "Power Systems" },
+            { "subjectName": "Control Systems" },
+            { "subjectName": "Power Electronics" },
+            { "subjectName": "Electrical Machines" },
+            { "subjectName": "Smart Grid Technologies" },
+            { "subjectName": "Energy Storage Systems" },
+            { "subjectName": "High Voltage Engineering" },
+            { "subjectName": "Electrical Circuit Analysis" },
+            { "subjectName": "Electromagnetic Theory" },
+            { "subjectName": "Renewable Power Generation" },
+            { "subjectName": "Structural Analysis" },
+            { "subjectName": "Transportation Engineering" },
+            { "subjectName": "Environmental Engineering" },
+            { "subjectName": "Geotechnical Engineering" },
+            { "subjectName": "Hydraulics and Water Resources" },
+            { "subjectName": "Construction Project Management" },
+            { "subjectName": "Urban Planning and Development" },
+            { "subjectName": "Coastal Engineering" },
+            { "subjectName": "Earthquake Engineering" },
+            { "subjectName": "Advanced Surveying" },
+            { "subjectName": "Chemical Reaction Engineering" },
+            { "subjectName": "Process Control and Instrumentation" },
+            { "subjectName": "Heat Transfer" },
+            { "subjectName": "Mass Transfer" },
+            { "subjectName": "Petrochemical Engineering" },
+            { "subjectName": "Polymer Technology" },
+            { "subjectName": "Biochemical Engineering" },
+            { "subjectName": "Environmental Pollution Control" },
+            { "subjectName": "Food Process Engineering" },
+            { "subjectName": "Separation Processes" },
+            { "subjectName": "Nanotechnology" },
+            { "subjectName": "Hydrogen Energy Systems" },
+            { "subjectName": "Material Science and Engineering" },
+            { "subjectName": "Industrial Automation" },
+            { "subjectName": "Automotive Electronics" },
+            { "subjectName": "Railway Engineering" },
+            { "subjectName": "Aerospace Engineering" },
+            { "subjectName": "Flight Mechanics" },
+            { "subjectName": "Spacecraft Dynamics" },
+            { "subjectName": "Rocket Propulsion" },
+            { "subjectName": "Satellite Communications" },
+            { "subjectName": "Geoinformatics" },
+            { "subjectName": "Urban Infrastructure Management" },
+            { "subjectName": "Hydrology and Drainage" },
+            { "subjectName": "Geotechnical Earthquake Engineering" },
+            { "subjectName": "Structural Dynamics" },
+            { "subjectName": "Water Treatment Engineering" },
+            { "subjectName": "Industrial Safety Engineering" },
+            { "subjectName": "Ergonomics and Human Factors" },
+            { "subjectName": "Renewable Energy Engineering" },
+            { "subjectName": "Sustainable Urban Development" },
+            { "subjectName": "Wastewater Management" },
+            { "subjectName": "Advanced Polymer Science" },
+            { "subjectName": "Textile Engineering" },
+            { "subjectName": "Industrial Engineering" },
+            { "subjectName": "Production Planning and Control" },
+            { "subjectName": "Optimization Techniques" },
+            { "subjectName": "Supply Chain Management" },
+            { "subjectName": "Lean Manufacturing" },
+            { "subjectName": "Quality Management Systems" },
+            { "subjectName": "Mechatronics" },
+            { "subjectName": "Internet of Behavior (IoB)" },
+            { "subjectName": "Edge Computing" },
+            { "subjectName": "Digital Twin Technologies" },
+            { "subjectName": "Electronics System Design" },
+            { "subjectName": "Hybrid Electric Vehicles" },
+            { "subjectName": "Industrial Robotics" },
+            { "subjectName": "Applied Thermodynamics" },
+            { "subjectName": "Energy Conservation and Management" },
+            { "subjectName": "Advanced Topics in Nanoscience" },
+            { "subjectName": "Bioinformatics" },
+            { "subjectName": "Biomedical Instrumentation" },
+            { "subjectName": "Smart Cities Technologies" },
+            { "subjectName": "Advanced Mechanics of Solids" },
+            { "subjectName": "Computational Fluid Dynamics" }
+        
+        
+    ],
+    "faculties": [
+        {
+            "facultyName": "Rahul Sharma"
+        },
+        {
+            "facultyName": "Priya Singh"
+        },
+        {
+            "facultyName": "Vikram Verma"
+        },
+        {
+            "facultyName": "Sneha Joshi"
+        },
+        {
+            "facultyName": "Anil Kumar"
+        },
+        {
+            "facultyName": "Neha Gupta"
+        },
+        {
+            "facultyName": "Ramesh Patel"
+        },
+        {
+            "facultyName": "Komal Dubey"
+        },
+        {
+            "facultyName": "Ajay Mishra"
+        },
+        {
+            "facultyName": "Pooja Shah"
+        },
+        { "facultyName": "Rahul Sharma" },
+        { "facultyName": "Priya Singh" },
+        { "facultyName": "Vikram Verma" },
+        { "facultyName": "Sneha Joshi" },
+        { "facultyName": "Anil Kumar" },
+        { "facultyName": "Neha Gupta" },
+        { "facultyName": "Ramesh Patel" },
+        { "facultyName": "Komal Dubey" },
+        { "facultyName": "Ajay Mishra" },
+        { "facultyName": "Pooja Shah" },
+        { "facultyName": "Arvind Rao" },
+        { "facultyName": "Kavita Desai" },
+        { "facultyName": "Suresh Menon" },
+        { "facultyName": "Anjali Nair" },
+        { "facultyName": "Rajesh Khanna" },
+        { "facultyName": "Nidhi Bhatia" },
+        { "facultyName": "Amitabh Sinha" },
+        { "facultyName": "Shweta Tiwari" },
+        { "facultyName": "Gaurav Mehta" },
+        { "facultyName": "Ruchi Saxena" },
+        { "facultyName": "Vivek Choudhary" },
+        { "facultyName": "Meera Iyer" },
+        { "facultyName": "Sanjay Kulkarni" },
+        { "facultyName": "Divya Reddy" },
+        { "facultyName": "Ashok Pillai" },
+        { "facultyName": "Manisha Rao" },
+        { "facultyName": "Naveen Malhotra" },
+        { "facultyName": "Rita Fernandez" },
+        { "facultyName": "Dinesh Bansal" },
+        { "facultyName": "Poonam Kapoor" },
+        { "facultyName": "Karan Thakur" },
+        { "facultyName": "Smita Aggarwal" },
+        { "facultyName": "Siddharth Jain" },
+        { "facultyName": "Lakshmi Subramaniam" },
+        { "facultyName": "Mohan Chatterjee" },
+        { "facultyName": "Preeti Kaur" },
+        { "facultyName": "Tarun Goswami" },
+        { "facultyName": "Sunita Pandey" },
+        { "facultyName": "Rohit Nanda" },
+        { "facultyName": "Leena Abraham" }
+    ],
+    "subjectFacultyDivision": [
+        {
+            "subjectName": "Data Structures and Algorithms",
+            "facultyName": "Rahul Sharma",
+            "divisionName": "FE1",
+            "compulsoryContinuousSlots": 1,
+            "weeklyFrequency": "auto"
+        },
+        {
+            "subjectName": "Data Structures and Algorithms",
+            "facultyName": "Rahul Sharma",
+            "divisionName": "FE2",
+            "compulsoryContinuousSlots": 1,
+            "weeklyFrequency": 3
+        },
+        {
+            "subjectName": "Data Structures and Algorithms",
+            "facultyName": "Priya Singh",
+            "divisionName": "FE3",
+            "compulsoryContinuousSlots": 2,
+            "weeklyFrequency": 2
+        },
+        {
+            "subjectName": "Data Structures and Algorithms",
+            "facultyName": "Priya Singh",
+            "divisionName": "FE4",
+            "compulsoryContinuousSlots": 2,
+            "weeklyFrequency": 2
+        },
+        {
+            "subjectName": "Database Management Systems",
+            "facultyName": "Vikram Verma",
+            "divisionName": "FE1",
+            "compulsoryContinuousSlots": 1,
+            "weeklyFrequency": "auto"
+        },
+        {
+            "subjectName": "Database Management Systems",
+            "facultyName": "Vikram Verma",
+            "divisionName": "FE2",
+            "compulsoryContinuousSlots": 1,
+            "weeklyFrequency": 3
+        },
+        {
+            "subjectName": "Database Management Systems",
+            "facultyName": "Sneha Joshi",
+            "divisionName": "FE3",
+            "compulsoryContinuousSlots": 2,
+            "weeklyFrequency": 2
+        },
+        {
+            "subjectName": "Database Management Systems",
+            "facultyName": "Sneha Joshi",
+            "divisionName": "FE4",
+            "compulsoryContinuousSlots": 2,
+            "weeklyFrequency": 2
+        },
+        {
+            "subjectName": "Operating Systems",
+            "facultyName": "Anil Kumar",
+            "divisionName": "SE1",
+            "compulsoryContinuousSlots": 1,
+            "weeklyFrequency": "auto"
+        },
+        {
+            "subjectName": "Operating Systems",
+            "facultyName": "Anil Kumar",
+            "divisionName": "SE2",
+            "compulsoryContinuousSlots": 1,
+            "weeklyFrequency": 3
+        },
+        {
+            "subjectName": "Operating Systems",
+            "facultyName": "Neha Gupta",
+            "divisionName": "SE3",
+            "compulsoryContinuousSlots": 2,
+            "weeklyFrequency": 2
+        },
+        {
+            "subjectName": "Operating Systems",
+            "facultyName": "Neha Gupta",
+            "divisionName": "SE4",
+            "compulsoryContinuousSlots": 2,
+            "weeklyFrequency": 2
+        },
+        {
+            "subjectName": "Computer Networks",
+            "facultyName": "Ramesh Patel",
+            "divisionName": "SE1",
+            "compulsoryContinuousSlots": 1,
+            "weeklyFrequency": "auto"
+        },
+        {
+            "subjectName": "Computer Networks",
+            "facultyName": "Ramesh Patel",
+            "divisionName": "SE2",
+            "compulsoryContinuousSlots": 1,
+            "weeklyFrequency": 3
+        },
+        {
+            "subjectName": "Computer Networks",
+            "facultyName": "Komal Dubey",
+            "divisionName": "SE3",
+            "compulsoryContinuousSlots": 2,
+            "weeklyFrequency": 2
+        },
+        {
+            "subjectName": "Computer Networks",
+            "facultyName": "Komal Dubey",
+            "divisionName": "SE4",
+            "compulsoryContinuousSlots": 2,
+            "weeklyFrequency": 2
+        }
+    ]
+}

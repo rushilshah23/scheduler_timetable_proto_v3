@@ -23,21 +23,21 @@ def init_db(app: Flask):
     pool_pre_ping=True)  # Check connections' validity before using them  # Added pool_pre_ping for more robust connection handling
     
     # Create a session factory (SessionLocal)
-    SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+    # SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
     # Create tables if they don't exist (but only on app startup, not every request)
-    import  src.packages.timetabler.models 
+    import  src.packages.timetabler.models_v2 
     Base.metadata.create_all(bind=engine)
     print("Database tables created successfully or already exist.")
 
 
 # Helper function to get the DB session
-def get_db():
-    """Get a database session."""
-    if SessionLocal is None:
-        raise RuntimeError("SessionLocal is not initialized. Ensure the database is configured before usage.")
-    db = SessionLocal()
-    try:
-        yield db
-    finally:
-        db.close()
+# def get_db():
+#     """Get a database session."""
+#     if SessionLocal is None:
+#         raise RuntimeError("SessionLocal is not initialized. Ensure the database is configured before usage.")
+#     db = SessionLocal()
+#     try:
+#         yield db
+#     finally:
+#         db.close()

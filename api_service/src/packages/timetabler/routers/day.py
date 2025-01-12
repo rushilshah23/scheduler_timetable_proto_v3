@@ -24,8 +24,8 @@ class DayRouter(Router):
     def create_day(self):
         """ Route to create a new day """
         data = request.get_json()
-        day_name = data.get('day_name')
-        response = self.controller.create_day(day_name)
+        name = data.get('name')
+        response = self.controller.create_day(name)
         return self.send_response(response=response)
     
     def get_day(self, day_id):
@@ -36,8 +36,8 @@ class DayRouter(Router):
     def update_day(self, day_id):
         """ Route to update a day by ID """
         data = request.get_json()
-        new_day_name = data.get('new_day_name')
-        response = self.controller.update_day(day_id, new_day_name)
+        new_name = data.get('new_day_name')
+        response = self.controller.update_day(day_id, new_name)
         return self.send_response(response=response)
 
     def delete_day(self, day_id):

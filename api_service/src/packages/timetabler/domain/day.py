@@ -17,11 +17,11 @@ class DayEnum(Enum):
 @dataclass
 class Day:
     id: str
-    day_name: str
+    name: str
 
 
     def to_dict(self):
         return {
             "id": self.id,
-            "day_name": self.day_name
+            "name": self.name
         }

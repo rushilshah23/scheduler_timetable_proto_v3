@@ -1,11 +1,8 @@
 from flask import Flask
-from src.utils.database import init_db, SessionLocal
+from src.utils.database import init_db
 from src.configs.base import Config
 from src.utils.celery import celery_init_app
 
-from src.packages.timetabler.routers import DayRouter
-from src.packages.timetabler.services import DayService
-from src.packages.timetabler.controllers import DayController
 
 
 def create_app():
@@ -16,12 +13,7 @@ def create_app():
     init_db(app)
     celery_init_app(app)
     from src.packages.timetabler.routes import timetable_router
-    from src.utils.database import engine
-    day_router = DayRouter(
-        router_name="day_api",
-        controller=DayController(service=DayService(engine=engine)),
-        service=DayService(engine=engine)
-    )
+    from src.packages.timetabler import day_router
     app.register_blueprint(day_router.api)
 
     # Register blueprints

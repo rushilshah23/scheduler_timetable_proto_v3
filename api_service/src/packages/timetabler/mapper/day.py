@@ -8,13 +8,13 @@ class DayMapper(DomainMapper):
     def serialzie_dbModel(dict):
         return Day(
             id=dict["id"],
-            day_name=dict["day_name"]
+            name=dict["name"]
         )
     
     def deserialzie_dbModel(object ):
         return {
             "id":object.id,
-            "day_name":object.day_name
+            "name":object.name
         }
 
         

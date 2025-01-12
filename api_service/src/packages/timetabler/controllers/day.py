@@ -6,14 +6,14 @@ from src.packages.timetabler.mapper import DayMapper
 @dataclass
 class DayController(Controller):
 
-    def create_day(self, day_name):
+    def create_day(self, name):
         """
         Handles the creation of a new day.
         Returns a business response with data and status code.
         """
         try:
             # Perform business logic
-            result = self.service.create_day(id=get_new_id(), day_name=day_name)
+            result = self.service.create_day(id=get_new_id(), name=name)
             result = DayMapper.serialzie_dbModel(result)
             print(result)
             return {"data": result, "status_code": 201}
